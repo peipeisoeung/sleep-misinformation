@@ -1,0 +1,10 @@
+praw  # Reddit API
+beautifulsoup4  # Web scraping (WebMD)
+requests  # Web scraping & API calls
+transformers  # Hugging Face RoBERTa model
+torch  # Required for RoBERTa
+scikit-learn  # TF-IDF & cosine similarity
+pandas  # Data handling
+numpy  # Numerical operations
+matplotlib  # Visualization
+seaborn  # Heatmaps & graphs
